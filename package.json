@@ -1,5 +1,5 @@
 {
-  "homepage":"http://Vidyasagar5566.github.io/job-assignment"
+  "homepage":"http://Vidyasagar5566.github.io/job-assignment",
   "name": "job-assignment",
   "version": "0.1.0",
   "private": true,
@@ -38,4 +38,7 @@
       "last 1 safari version"
     ]
   }
+  "devDependencies":{
+  "gh-pages":"^2.1.1"
+}
 }
